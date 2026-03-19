@@ -368,7 +368,7 @@ function showLightning() {
 /* ============================================================
    SEGURANÇA (SENHA)
    ============================================================ */
-const ACCESS_PASSWORD = "professor"; // Senha padrão. O professor pode mudar aqui.
+const ACCESS_PASSWORD = "dos2703"; // Senha padrão. O professor pode mudar aqui.
 
 function checkPassword() {
   const input = document.getElementById('password-input').value;
